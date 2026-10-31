@@ -185,7 +185,7 @@ button, input, select { font: inherit; color: inherit; }
 .btn:not(.btn-primary) .mw-spin.sm { border-color: var(--brand-soft); border-top-color: var(--brand); }
 
 /* ---- Duyarlı ---- */
-@media (max-width: 1080px) {
+@media (max-width: 1180px) {
   .mw-shell { grid-template-columns: minmax(0, 1fr); padding: 16px; gap: 16px; }
   .mw-side { position: static; padding: 6px; min-width: 0; }
   .mw-nav { flex-direction: row; overflow-x: auto; scrollbar-width: none; }
